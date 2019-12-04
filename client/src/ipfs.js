@@ -4,4 +4,5 @@ const ipfs = new IPFS({
   port: 5001,
   protocol: "https"
 });
+
 export default ipfs;
